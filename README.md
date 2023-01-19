@@ -11,6 +11,7 @@ Activate nvm by typing the following at the command line.
 Use nvm to install the latest version of Node.js by typing the following at the command line.
 
 nvm install --lts
+
 nvm install 16
 
 Use nvm to install the latest version of Node.js by typing the following at the command line.
